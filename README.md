@@ -1,6 +1,8 @@
 pyggplot
 ========
 
+[![Join the chat at https://gitter.im/TyberiusPrime/pyggplot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TyberiusPrime/pyggplot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 pyggplot is a Pythonic wrapper around the [R ggplot2 library](http://had.co.nz/ggplot2/).
 
 It is based on a a straightforward *take [Pandas](http://pandas.pydata.org/) data frames and shove them into [R](http://www.r-project.org/) via [rpy2](https://pypi.python.org/pypi/rpy2)* approach.
